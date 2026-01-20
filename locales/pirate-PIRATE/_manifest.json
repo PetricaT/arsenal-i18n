@@ -1,0 +1,16 @@
+{
+    "label": "Pirate",
+    "languageCode": "pirate",
+    "countryCode": "PIRATE",
+    "flag": "flag.png",
+    "files": [
+        "translations/notifications.json",
+        "translations/dialogs.json",
+        "translations/settings.json",
+        "translations/ui.json",
+        "translations/menus.json",
+        "translations/onboarding.json",
+        "translations/tutorials.json",
+        "translations/misc.json"
+    ]
+}
