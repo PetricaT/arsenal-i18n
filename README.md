@@ -1,7 +1,7 @@
 <div align="center">
 <img src="assets/arsenal-i18n.svg" width=128px>
 
-<h1> Internationalization and Localization - Community Edition</h1>
+<h1> Internationalization and Localization <br> Community Edition</h1>
 A collection of localizations all in one place, for the convenience of the helldiver.
 </div>
 <br>
