@@ -1,6 +1,10 @@
-# Internationalization and Localization - Community Edition
+<div align="center">
+<img src="assets/arsenal-i18n.svg" width=128px>
 
-A collection of localizations all in one place, for the convenience of the hell diver.
+<h1> Internationalization and Localization - Community Edition</h1>
+A collection of localizations all in one place, for the convenience of the helldiver.
+</div>
+<br>
 
 # Contributing
 
