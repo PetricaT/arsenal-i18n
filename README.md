@@ -37,3 +37,7 @@ For the flag, you should use [https://flagcdn.com/](https://flagcdn.com/) just a
 # Helper scripts
 
 The python scripts are meant to help with keeping the repo clean and consistent. You shouldn't have to worry about using them, especially in a PR that wants to add a new language. I will primarily run these periodically myself.
+
+# ${{\color{Gold}{\textnormal{Thanks to}}}}$
+
+As soon as people start contributing I will add them here :)
